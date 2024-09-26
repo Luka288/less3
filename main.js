@@ -1,3 +1,5 @@
+"use strict";
+
 //1
 let array0 = [10, 50, 6, 7, 8, 11, 6, 3, 9];
 
@@ -88,7 +90,7 @@ function checkNum(array) {
   return "არ არის";
 }
 
-console.log(checkNum(array5));
+console.log(checkNum(array8));
 
 //8
 let array5 = [1, 2, 3, 7, 6, 9];
